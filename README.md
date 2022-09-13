@@ -1,12 +1,12 @@
 
 
-### ¡Hola! Soy Leandro  👋 🙋‍♂️  
+# ¡Hola! Soy Leandro  👋 🙋‍♂️  
 <div align="center">
 <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" align="center" height="250" width="400" />
 </div>  
   
 
-### Lo que me apasiona:  
+## Lo que me apasiona:  
   
 
 - 🎯 Aprender cosas nuevas  
@@ -30,7 +30,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Tecnologías  
 <table><tr><td valign="top" width="33%">
 
 
@@ -73,6 +73,7 @@
 
 
 ## Connect with me  
+<br/> 
 <div align="center">
 <a href="https://github.com/lbenjaminq" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
