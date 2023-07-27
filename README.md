@@ -1,131 +1,85 @@
+<h1 align="left">¡Hola! Soy Leandro 👋 🙋‍♂️</h1>
 
+###
 
-# ¡Hola! Soy Leandro  👋 🙋‍♂️  
 <div align="center">
-<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" align="center" height="250" width="400" />
-</div>  
-  
-
-## Lo que me apasiona:  
-  
-
-- 🎯 Aprender cosas nuevas  
-  
-
-- 🏆 Desarrollo personal  
-  
-
-- 🚀 Los cambios  
-  
-
-- ✈ Viajar y conocer nuevos lugares  
-  
-
--  👯 Trabajo en equipo y colaborativo  
-  
-
--  💻 Desarrollo Front End para una buena experiencia de usuario  
-  
-
-<br/>  
-
-
-## Tecnologías  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+  <img height="350" src="https://camo.githubusercontent.com/247e136bbbb5015042d384c1fe1c1ac854bd25c0d93870e6758c77a200115592/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5934616b394b6932475a43624a78416e4a442f67697068792e676966"  />
 </div>
 
-</td><td valign="top" width="33%">
+###
 
+<p align="left">Estudiante de Desarrollo de Software en la ULP || AWS Cloud Practitioner || Full Stack Developer.</p>
 
+###
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<h2 align="left">Lo que me apasiona:</h2>
+
+###
+
+<p align="left">🎯 Aprender cosas nuevas<br><br>🏆 Desarrollo personal<br><br>🚀 Los cambios<br><br>✈ Viajar y conocer nuevos lugares<br><br>👯 Trabajo en equipo y colaborativo<br><br>💻 Desarrollo Full Stack<br><br>☁ Cloud Computing<br><br>🛠 Estudiando para AWS Certified Solutions Architect</p>
+
+###
+
+<h2 align="left">Tecnologías</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
 </div>
 
-</td></table>  
+###
 
-
-### AWS
 <div align="center">
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-original.svg" alt="Amazon Web Services (AWS)" height="50" />
-  </a>
-  <a href="https://aws.amazon.com/s3/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-s3.svg" alt="Amazon S3" height="50" />
-  </a>
-  <a href="https://aws.amazon.com/ec2/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-ec2.svg" alt="Amazon EC2" height="50" />
-  </a>
-  <a href="https://aws.amazon.com/rds/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-rds.svg" alt="Amazon RDS" height="50" />
-  </a>
-  <a href="https://aws.amazon.com/lambda/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-lambda.svg" alt="AWS Lambda" height="50" />
-  </a>
-  <a href="https://aws.amazon.com/elasticbeanstalk/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-elastic-beanstalk.svg" alt="AWS Elastic Beanstalk" height="50" />
-  </a>
-  <a href="https://aws.amazon.com/sqs/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-sqs.svg" alt="Amazon SQS" height="50" />
-  </a>
-  <a href="https://aws.amazon.com/sns/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-sns.svg" alt="Amazon SNS" height="50" />
-  </a>
-  <a href="https://aws.amazon.com/iam/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-iam.svg" alt="AWS IAM" height="50" />
-  </a>
-  <a href="https://aws.amazon.com/route53/" target="_blank">
-    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-route53.svg" alt="Amazon Route 53" height="50" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=quirogaleandro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quirogaleandro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=quirogaleandro&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-</td></table>  
+###
 
-<br/>  
+<img src="https://raw.githubusercontent.com/quirogaleandro/quirogaleandro/output/snake.svg" alt="Snake animation" />
 
+###
 
-
-
-
-## Github Stats  
-<div align="center" background-color="#585B73"><img src="https://github-readme-stats.vercel.app/api?username=lbenjaminq&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-## Connect with me  
-<br/> 
 <div align="center">
-<a href="https://linkedin.com/in/leandro-quiroga/" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<a href="https://twitter.com/lbenjaminq1" target="_blank">
-  <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-</div>  
-  
+  <img src="https://profile-counter.glitch.me/quirogaleandro/count.svg?"  />
+</div>
 
-<br/>  
-
-
-
+###
