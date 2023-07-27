@@ -65,6 +65,43 @@
 
 </td></table>  
 
+
+### AWS
+<div align="center">
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-original.svg" alt="Amazon Web Services (AWS)" height="50" />
+  </a>
+  <a href="https://aws.amazon.com/s3/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-s3.svg" alt="Amazon S3" height="50" />
+  </a>
+  <a href="https://aws.amazon.com/ec2/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-ec2.svg" alt="Amazon EC2" height="50" />
+  </a>
+  <a href="https://aws.amazon.com/rds/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-rds.svg" alt="Amazon RDS" height="50" />
+  </a>
+  <a href="https://aws.amazon.com/lambda/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-lambda.svg" alt="AWS Lambda" height="50" />
+  </a>
+  <a href="https://aws.amazon.com/elasticbeanstalk/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-elastic-beanstalk.svg" alt="AWS Elastic Beanstalk" height="50" />
+  </a>
+  <a href="https://aws.amazon.com/sqs/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-sqs.svg" alt="Amazon SQS" height="50" />
+  </a>
+  <a href="https://aws.amazon.com/sns/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-sns.svg" alt="Amazon SNS" height="50" />
+  </a>
+  <a href="https://aws.amazon.com/iam/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-iam.svg" alt="AWS IAM" height="50" />
+  </a>
+  <a href="https://aws.amazon.com/route53/" target="_blank">
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws-route53.svg" alt="Amazon Route 53" height="50" />
+  </a>
+</div>
+
+</td></table>  
+
 <br/>  
 
 
