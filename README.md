@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎯 Aprender cosas nuevas<br><br>🏆 Desarrollo personal<br><br>🚀 Los cambios<br><br>✈ Viajar y conocer nuevos lugares<br><br>👯 Trabajo en equipo y colaborativo<br><br>💻 Desarrollo Full Stack<br><br>☁ Cloud Computing<br><br>🛠 Estudiando para AWS Certified Solutions Architect</p>
+<p align="left">🎯 Aprender cosas nuevas<br><br>🏆 Desarrollo personal<br><br>🚀 Los cambios<br><br>✈ Viajar y conocer nuevos lugares<br><br>👯 Trabajo en equipo y colaborativo<br><br>💻 Desarrollo Full Stack<br><br>☁ Cloud Computing<br></p>
 
 ###
 
