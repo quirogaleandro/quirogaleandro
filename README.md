@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Estudiante de Desarrollo de Software en la ULP || AWS Cloud Practitioner || Full Stack Developer.</p>
+<p align="left">AWS Solutions Architect Professional & Associate || AWS Cloud Engineer || DevOps || Stack PERN </p>
 
 ###
 
